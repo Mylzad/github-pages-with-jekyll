@@ -1,9 +1,10 @@
-title: Sunil Dass' Super Cool Title
+title: The Portfolio of Sunil Dass
 theme: minima
 author: Sunil Dass
 email: sunildass2002@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This description is great, one of the best.
+  This is all previous works done by Sunil Dass in the
+  Computer Science industry
 
 # social links
 twitter_username: mylzad # DO NOT include the @ character, or else the build will fail!
