@@ -2,4 +2,4 @@
 title: "Picture of Sunil Dass"
 date: 2020-06-15
 ---
-![Picture of Sunil Dass]({{ BASE_PATH }}/assets/img/screenshot.jpg)
+<img src="http://http://zeusakadelta.github.io/RICENCODE/assets/images/GSD1.pheno.png" >
