@@ -1,6 +1,6 @@
 ---
 title: "Test of Video Embedding"
-date: 2020-06-15
+date: 2020-06-11
 ---
 
 {% include youtubePlayer.html id=page.youtubeId %}
