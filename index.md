@@ -1,4 +1,4 @@
-# Welcome to my blog
+# Welcome to the best thing you've ever seen
 
 I'm glad you are here. I plan to talk about ...
 
